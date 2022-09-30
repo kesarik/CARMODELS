@@ -102,6 +102,16 @@
    "Mileage" : "7.09 kmpl", 
    "Price" : "Rs. 2.50 Cr and goes upto Rs. 3.20 Cr"
    },
+   
+   
+    {
+  "id" : 12,
+   "Car company" : "Tata Motors", 
+   "Car model" : "safari", 
+   "Colour" : "white", 
+   "Mileage" : "16.14 kmpl", 
+   "Price" : "₹ 15.35 lakh - ₹ 23.56 lakh"
+   },
 
 
 ]
