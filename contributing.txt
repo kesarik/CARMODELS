@@ -167,4 +167,14 @@
    "Price" : "15-20 Lakh",
 },
 
+{
+"id" : 30,
+   "Car company" : "Maruti Grand Vitara", 
+   "Car model" : "Delta", 
+   "Colour" : "white", 
+   "Mileage" : "27 kmpl", 
+   "Price" : "10.45lakh",
+},
+
+
 ]
