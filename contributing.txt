@@ -65,5 +65,15 @@
 
    },
    
+   {
+  "id" : 99,
+   "Car company" : "Mitsubishi", 
+   "Car model" : "Mitsubishi Lancer", 
+   "Colour" : "black", 
+   "Mileage" : "7 kmpl", 
+   "Price" : "₹ 3 cr"
+
+   },
+   
 
 ]
