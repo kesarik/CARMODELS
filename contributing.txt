@@ -201,4 +201,12 @@
    "Mileage" : "25-35 km/l", 
    "Price" : "Rs.9.25Lakh"
    },
+   "id" : 34,
+   "Car company" : "lamborghini", 
+   "Car model" : "huracan", 
+   "Colour" : "Grey", 
+   "Mileage" : "10.6-11.24 kmpl", 
+   "Price" : "3.22- 3.73Crore",
+},
+    
 ]
