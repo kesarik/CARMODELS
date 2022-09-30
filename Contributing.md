@@ -4,8 +4,7 @@ How to contribute ?
 2) The contribution should be added in below given format
 3) Recheck the info and create a pull request
 4) Celebrate!! You just created a succesful pull request
-
-Format:
+5) Format:
 
 {
    "id" : "1"
