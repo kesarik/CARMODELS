@@ -175,6 +175,13 @@
    "Mileage" : "27 kmpl", 
    "Price" : "10.45lakh",
 },
-
+{
+"id" : 31,
+   "Car company" : "Tesla", 
+   "Car model" : "Model S Plaid", 
+   "Colour" : "red", 
+   "Mileage" : "158 Wh/km", 
+   "Price" : "$119,990 to $135,990",
+},
 
 ]
