@@ -112,6 +112,15 @@
    "Mileage" : "16.14 kmpl", 
    "Price" : "₹ 15.35 lakh - ₹ 23.56 lakh"
    },
+     {
+  "id" : 13,
+   "Car company" : "Mahindra", 
+   "Car model" : "XUV 700", 
+   "Colour" : "white", 
+   "Mileage" : "16.14 kmpl", 
+   "Price" : "₹ 11.35 lakh - ₹ 23.56 lakh"
+   },
+
 
 
 ]
