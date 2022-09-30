@@ -8,12 +8,12 @@ How to contribute ?
 Format:
 
 {
-   "id" : 1
+   "id" : "1"
    "Car company" : "XYZ", 
    "Car model" : "Car type", 
    "Colour" : "Car color ", 
    "Mileage" : "xyz to abc kmpl", 
    "Price" : "price range"
-  },
+  }
 
 
