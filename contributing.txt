@@ -193,4 +193,12 @@
    "Price" : "Rs.8.49Lakh"
    },
 
+{
+   "id" : 33
+   "Car company" : "Suzuki", 
+   "Car model" : "sigma", 
+   "Colour" : "gray", 
+   "Mileage" : "25-35 km/l", 
+   "Price" : "Rs.9.25Lakh"
+   },
 ]
