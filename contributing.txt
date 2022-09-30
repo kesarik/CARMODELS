@@ -158,5 +158,13 @@
    "Mileage" : "7.84 kmpl", 
    "Price" : "6lakh -7lakh",
 },
+{
+"id" : 25,
+   "Car company" : "Kia", 
+   "Car model" : "Seltos", 
+   "Colour" : "Gravity Grey", 
+   "Mileage" : "15 kmpl", 
+   "Price" : "15-20 Lakh",
+},
 
 ]
