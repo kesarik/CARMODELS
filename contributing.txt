@@ -184,4 +184,13 @@
    "Price" : "$119,990 to $135,990",
 },
 
+ {
+   "id" : 32
+   "Car company" : "Tata", 
+   "Car model" : "tigor ev", 
+   "Colour" : "white", 
+   "Mileage" : "19-27 km/l", 
+   "Price" : "Rs.8.49Lakh"
+   },
+
 ]
