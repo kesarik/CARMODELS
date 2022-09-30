@@ -120,6 +120,14 @@
    "Mileage" : "16.14 kmpl", 
    "Price" : "₹ 11.35 lakh - ₹ 23.56 lakh"
    },
+ {
+  "id" : 14,
+   "Car company" : "Skoda", 
+   "Car model" : "Skoda Slavia", 
+   "Colour" : "Blue", 
+   "Mileage" : "18.7 kmpl", 
+   "Price" : "₹ 10.99 lakh - ₹ 18.39 lakh"
+   },
 
 {
    "id" : "14"
