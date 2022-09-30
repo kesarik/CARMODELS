@@ -64,6 +64,14 @@
    "Price" : "₹ 3.15 cr - ₹ 3.48 cr"
 
    },
-   
+  {
+  "id" : 78
+   "Car company" : "Toyota", 
+   "Car model" : "Fortuner", 
+   "Colour" : "black", 
+   "Mileage" : "7.84 kmpl", 
+   "Price" : "₹ 25 lac - ₹ 30 lacr"
+
+   },  
 
 ]
