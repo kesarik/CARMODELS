@@ -74,6 +74,15 @@
    "Price" : "₹ 74.61 Lakh"
    },
    
+     {
+  "id" : 52
+   "Car company" : "Maruti sujuki", 
+   "Car model" : "Maruti Alto 800 ", 
+   "Colour" : "black", 
+   "Mileage" : "31.59 km/kgl", 
+   "Price" : "Rs.3.39 - 5.03 Lakh"
+
+   },
 
    {
   "id" : 10,
