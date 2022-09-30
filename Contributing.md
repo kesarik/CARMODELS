@@ -6,7 +6,7 @@ How to contribute ?
 4) Celebrate!! You just created a succesful pull request
 5) Format:
 
-{
+  {
    "id" : "1"
    "Car company" : "XYZ", 
    "Car model" : "Car type", 
