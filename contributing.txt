@@ -224,4 +224,16 @@
    "Price" : "Rs.7.50 Cr",
 },
 
+
+
+{
+   "id" : 188
+   "Car company" : "Yamaha Motor Company", 
+   "Car model" : "  YZF R15S", 
+   "Colour" : "racing blue and matte black", 
+   "Mileage" : "40 km/l", 
+   "Price" : "1.62 lakh"
+  },
+
+
 ]
